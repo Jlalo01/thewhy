@@ -1,0 +1,21 @@
+.full{
+  background-color: black;
+}
+
+.letter{
+  background-color: black;
+}
+
+.fullLetter{
+  align-items: center;
+  text-align: center;
+}
+.App {
+  text-align: center;
+  padding: 5%;
+  background-color: black;
+  height: 100vh;
+}
+.password{
+  color: white;
+}
